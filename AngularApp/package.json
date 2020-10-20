@@ -25,7 +25,7 @@
     "sass-loader": "^8.0.2",
     "tslib": "^2.0.0",
     "utf-8-validate": "^5.0.2",
-    "webpack-subresource-integrity": "^1.4.1",
+    "webpack-subresource-integrity": "^1.5.1",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
