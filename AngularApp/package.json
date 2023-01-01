@@ -22,14 +22,14 @@
     "bootstrap": "^4.5.0",
     "bufferutil": "^4.0.1",
     "rxjs": "~6.6.0",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "tslib": "^2.0.0",
     "utf-8-validate": "^5.0.2",
     "webpack-subresource-integrity": "^1.4.1",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.1000.1",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "~10.0.1",
     "@angular/compiler-cli": "~10.0.2",
     "@angular/language-service": "~10.0.2",
